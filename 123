@@ -1,3 +1,8 @@
 git config --global user.name ”Anna Donina”
 git config --global user.email annadonina10@gmail.com
+cd C:\www
 git clone https://github.com/AvaLon45-ui/Repository-Anna.git
+git add song.txt
+git commit -m "added the first half of my favorite song"
+ git add song.txt
+git commit -m "end of the song"
