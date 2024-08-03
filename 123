@@ -1,0 +1,3 @@
+git config --global user.name ”Anna Donina”
+git config --global user.email annadonina10@gmail.com
+git clone https://github.com/AvaLon45-ui/Repository-Anna.git
